@@ -1,4 +1,4 @@
-const url = "../../samples.json"
+const url = "../data/samples.json"
 
 function init() {
     let dropdown = d3.select("#selDataset");
