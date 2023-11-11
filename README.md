@@ -4,7 +4,7 @@ In this assignment, I will build an interactive dashboard to explore the Belly B
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-**The following images display the dashboard with some samples of the test subjects and corresponding visualizayions showcasing genetic biodiversity. Run the app.js & index.html to launch the interactive dashboard in your browser & play around with the dropdown to explore further.**
+**The following images display the dashboard with some samples of the test subjects and corresponding visualizations showcasing genetic biodiversity. Run the app.js & index.html to launch the interactive dashboard in your browser & play around with the dropdown to explore further.**
 
 <img width="611" alt="Screenshot 2023-11-10 at 10 50 13 PM" src="https://github.com/anastasiaskr2000/belly-button-challenge/assets/131491720/5174ad60-c484-4508-921b-db9283032659">
 
